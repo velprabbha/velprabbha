@@ -4,8 +4,6 @@
 
 Building intelligent systems at the intersection of AI and product.
 
-[![Profile Views](https://komarev.com/ghprofile/?username=iam-prabha&style=flat&color=blue&label=PROFILE+VIEWS)](https://github.com/iam-prabha)
-
 ## Focus
 
 - AI Agents & LLM Applications
