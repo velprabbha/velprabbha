@@ -4,9 +4,7 @@
 
 Building intelligent systems at the intersection of AI and product.
 
-[![Followers](https://img.shields.io/github/followers/iam-prabha?label=Followers&style=flat&color=blue)](https://github.com/iam-prabha) [![GitHub Profile](https://img.shields.io/badge/GitHub-@iam--prabha-181717?style=flat&logo=github)](https://github.com/iam-prabha)
-
-> Profile stats powered by the GitHub API (via shields.io) — live follower count and quick link to the profile.
+[![Profile Views](https://komarev.com/ghprofile/?username=iam-prabha&style=flat&color=blue&label=PROFILE+VIEWS)](https://github.com/iam-prabha)
 
 ## Focus
 
