@@ -1,6 +1,6 @@
 # Hi folks, I'm Velprabhakaran Baskar
 
-**AI Engineer & Product Manager**
+**AI Engineer | Full-Stack Engineer**
 
 Building intelligent systems at the intersection of AI and product.
 
@@ -13,9 +13,9 @@ Building intelligent systems at the intersection of AI and product.
 ## Interests
 
 - AI Agents & Autonomous Systems
-- Product Development & Growth
-- Nanotechnology & Molecular Engineering
 - Entrepreneurship & Building Startups
+- Product Development & Growth
+- Nanotechnology Technology & Game Development
 
 ## Tech Stack
 
